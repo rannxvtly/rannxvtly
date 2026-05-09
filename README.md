@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Kirana+👋;Software+Engineering+Enthusiast;Network+Engineering+Explorer;Building+Modern+and+Secure+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Kirana+👋;Software+Engineering+Student;Network+Engineering+Explorer;Building+Modern+and+Secure+Systems" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn"/>
 
