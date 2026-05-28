@@ -68,6 +68,22 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 ---
 
+## 📈 Contribution & Activity Graphs
+
+<div align="center">
+
+### 🗓️ My Contribution Streak & Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rannxvtly&theme=tokyonight&bg_color=00000000&hide_border=true&area=true" width="100%" />
+
+<br><br>
+
+### 🧊 3D Contribution Profile
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly" width="85%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
