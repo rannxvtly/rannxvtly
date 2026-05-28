@@ -68,17 +68,25 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 ---
 
-## 📈 Contribution & Activity Graphs
+## 👾 My Creative Contribution Worlds
 
 <div align="center">
 
-### 🗓️ My Contribution Streak & Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rannxvtly&theme=tokyonight&bg_color=00000000&hide_border=true&area=true" width="100%" />
+### 🐍 The Contribution Snake Game
+*Nonton si ular memakan semua komit dan kontribusiku tahun ini!*
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
 
 <br><br>
 
-### 🧊 3D Contribution Profile
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly" width="85%" />
+### 🌆 Isometric Contribution Skyline
+*Aktivitas coding-ku yang diubah menjadi miniatur cetak kota 3D yang estetik.*
+<br>
+<img src="https://pixe.la/v1/users/rannxvtly/graphs/skyline" onerror="this.src='https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly&theme=dark'" width="85%" />
 
 </div>
 
@@ -91,14 +99,14 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rannxvtly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rannxvtly&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=rannxvtly&theme=tokyonight&hide_border=true&background=00000000&sideIcons=true&stroke=00F7FF&ring=00F7FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rannxvtly&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=00F7FF"/>
 
 <br>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -108,10 +116,10 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <div align="center">
 
-<a href="https://www.instagram.com/kyrannllyz/">
+<a href="https://www.instagram.com/kyrannllyz/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.tiktok.com/@kyrannxllyz?lang=id-ID">
+<a href="https://www.tiktok.com/@kyrannxllyz?lang=id-ID" target="_blank">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
@@ -123,11 +131,15 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=rannxvtly&label=Profile+Views&color=00E5FF&style=flat-square"/>
+
+<br>
 
 **✨ Building systems, connecting networks, and continuously learning new technologies ✨**
 
