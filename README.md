@@ -78,15 +78,8 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg" width="90%" onerror="this.style.display='none'">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg" width="90%">
 </picture>
-
-<br><br>
-
-### 🌆 3D Contribution Profile
-*Aktivitas coding-ku yang diubah menjadi miniatur cetak kota 3D yang estetik.*
-<br><br>
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly&theme=tokyonight" width="85%" />
 
 </div>
 
@@ -96,17 +89,14 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-two.vercel.app/api?username=rannxvtly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF" />
-<img height="180em" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=rannxvtly&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF" />
+### ⚡ My GitHub Badge Metrics
+Menampilkan rangkuman statistik utama akun GitHub saya secara instan dan aman:
 
-<br><br>
+<br>
 
-<img src="https://git-streak-stats.vercel.app/?user=rannxvtly&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=00F7FF" />
-
-<br><br>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" onerror="this.style.display='none'" />
+![](https://img.shields.io/github/followers/rannxvtly?label=Followers&style=for-the-badge&color=00F7FF&labelColor=1a1b26)
+![](https://img.shields.io/github/stars/rannxvtly?label=Stars+Earned&style=for-the-badge&color=bb9af7&labelColor=1a1b26)
+![](https://img.shields.io/github/repo-size/rannxvtly/rannxvtly?label=Profile+Size&style=for-the-badge&color=7aa2f7&labelColor=1a1b26)
 
 </div>
 
@@ -128,10 +118,6 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" onerror="this.style.display='none'" />
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
