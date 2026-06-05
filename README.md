@@ -105,7 +105,7 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 <br>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=omni&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=rannxvtly&theme=omni)
 
 </div>
 
