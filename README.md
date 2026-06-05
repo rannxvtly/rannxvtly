@@ -74,7 +74,7 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 ### 🐍 The Contribution Snake Game
 *Nonton si ular memakan semua komit dan kontribusiku tahun ini!*
-<br>
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg">
@@ -85,8 +85,8 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 ### 🌆 Isometric Contribution Skyline
 *Aktivitas coding-ku yang diubah menjadi miniatur cetak kota 3D yang estetik.*
-<br>
-<img src="https://pixe.la/v1/users/rannxvtly/graphs/skyline" onerror="this.src='https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly&theme=dark'" width="85%" />
+<br><br>
+<img src="https://pixe.la/v1/users/rannxvtly/graphs/skyline" onerror="this.src='https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly&theme=tokyonight'" width="85%" />
 
 </div>
 
@@ -101,9 +101,9 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rannxvtly&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=00F7FF"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=rannxvtly&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=00F7FF"/>
 
-<br>
+<br><br>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
