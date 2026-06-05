@@ -126,7 +126,7 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rannxvtly&icon=8&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=rannxvtly&label=Profile%20Views&color=00F7FF&style=flat-square)
 
 <br>
 
