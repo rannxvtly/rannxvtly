@@ -35,13 +35,15 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 ---
 
-## 🚀 Interests & Expertise
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,php,python,html,css,bootstrap,laravel,mysql,linux,git,github,vscode" />
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 
-<br><br>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&theme=dark&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
 
 | **Software Engineering** | **Network Engineering** | **Cyber Security** | **Web Development** |
 | :---: | :---: | :---: | :---: |
@@ -89,14 +91,22 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <div align="center">
 
-### ⚡ My GitHub Badge Metrics
-Menampilkan rangkuman statistik utama akun GitHub saya secara instan dan aman:
+![](https://github-readme-stats.shion.dev/api?username=rannxvtly&theme=omni&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rannxvtly&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br>
 
-![](https://img.shields.io/github/followers/rannxvtly?label=Followers&style=for-the-badge&color=00F7FF&labelColor=1a1b26)
-![](https://img.shields.io/github/stars/rannxvtly?label=Stars+Earned&style=for-the-badge&color=bb9af7&labelColor=1a1b26)
-![](https://img.shields.io/github/repo-size/rannxvtly/rannxvtly?label=Profile+Size&style=for-the-badge&color=7aa2f7&labelColor=1a1b26)
+![](https://streak-stats.demolab.com/?user=rannxvtly&theme=omni&hide_border=false)
+
+<br>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=omni&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=rannxvtly&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -106,12 +116,9 @@ Menampilkan rangkuman statistik utama akun GitHub saya secara instan dan aman:
 
 <div align="center">
 
-<a href="https://www.instagram.com/kyrannllyz/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.tiktok.com/@kyrannxllyz?lang=id-ID" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kyrannllyz/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirana-larasati-dewi-a16259412/) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@kyrannxllyz?lang=id-ID) 
 
 </div>
 
@@ -123,7 +130,7 @@ Menampilkan rangkuman statistik utama akun GitHub saya secara instan dan aman:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rannxvtly&label=Profile+Views&color=00E5FF&style=flat-square"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=rannxvtly&icon=9&color=6)](https://visitcount.itsvg.in)
 
 <br>
 
