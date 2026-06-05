@@ -80,6 +80,7 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 <div align="center">
 
 ### 🐍 The Contribution Snake Game
+*Nonton si ular memakan semua komit dan kontribusiku tahun ini!*
 <br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake-dark.svg">
@@ -110,11 +111,6 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 ### ⏰ GitHub Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rannxvtly&theme=omni&hide_border=false)
-
-<br>
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=rannxvtly&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
 </div>
 
