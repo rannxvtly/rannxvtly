@@ -107,11 +107,6 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=omni&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
-
-### ⏰ GitHub Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=rannxvtly&theme=omni&hide_border=false)
-
 </div>
 
 ---
