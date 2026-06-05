@@ -78,15 +78,15 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg" width="90%">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake.svg" width="90%" onerror="this.style.display='none'">
 </picture>
 
 <br><br>
 
-### 🌆 Isometric Contribution Skyline
+### 🌆 3D Contribution Profile
 *Aktivitas coding-ku yang diubah menjadi miniatur cetak kota 3D yang estetik.*
 <br><br>
-<img src="https://pixe.la/v1/users/rannxvtly/graphs/skyline" onerror="this.src='https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly&theme=tokyonight'" width="85%" />
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=rannxvtly&theme=tokyonight" width="85%" />
 
 </div>
 
@@ -96,17 +96,17 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rannxvtly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rannxvtly&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF"/>
+<img height="180em" src="https://github-readme-stats-two.vercel.app/api?username=rannxvtly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF" />
+<img height="180em" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=rannxvtly&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=rannxvtly&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=00F7FF"/>
+<img src="https://git-streak-stats.vercel.app/?user=rannxvtly&theme=tokyonight&hide_border=true&background=00000000&stroke=00F7FF&ring=00F7FF" />
 
 <br><br>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rannxvtly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" onerror="this.style.display='none'" />
 
 </div>
 
@@ -117,10 +117,10 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 <div align="center">
 
 <a href="https://www.instagram.com/kyrannllyz/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.tiktok.com/@kyrannxllyz?lang=id-ID" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
@@ -129,7 +129,7 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" onerror="this.style.display='none'" />
 
 <br><br>
 
