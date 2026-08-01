@@ -79,8 +79,6 @@ Saya percaya bahwa teknologi bukan hanya tentang coding, tetapi juga bagaimana m
 
 <div align="center">
 
-### 🐍 The Contribution Snake Game
-*Nonton si ular memakan semua komit dan kontribusiku tahun ini!*
 <br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rannxvtly/rannxvtly/output/github-contribution-grid-snake-dark.svg">
